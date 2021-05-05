@@ -8,5 +8,5 @@ Costruendo una borraccia si potrebbe pensare che non ci siano poi molti fattori 
 - della lunghezza della filatura per consentire una chiusura ermetica
 
 Per rendere meglio l'idea del progetto mostro un'immagine:
-![](https://github.com/Meroli00/TPAhomework1/blob/main/cartellaSVG/borraccia.svg)
+![](https://github.com/Meroli00/TPAhomework1/blob/main/svg/borraccia.svg)
 
