@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"> 
+
+<circle cx="50" cy="50" r="40"
+  stroke="black" stroke-width="2" fill="yellow" />
+  
+
+<rect
+	x="0" y="400" 
+  	width="800" height="1" 
+    	style="fill:lightblue;stroke-width:2;stroke:black" />
+
+<rect
+	x="300" y="300" 
+  	width="200" height="100" 
+    	style="fill:lightblue;stroke-width:2;stroke:black" />  
+        
+<rect
+	x="300" y="200" 
+  	width="200" height="100" 
+    	style="fill:lightblue;stroke-width:2;stroke:black" /> 
+
+<rect
+	x="300" y="400" 
+  	width="200" height="100" 
+    	style="fill:white;stroke-width:2;stroke:black" /> 
+
+<rect
+	x="375" y="325" 
+  	width="50" height="75" 
+    	style="fill:brown;stroke-width:2;stroke:black" /> 
+
+<circle cx="415" cy="362" r="2"
+  stroke="black" stroke-width="2" fill="black" />
+
+<rect
+	x="320" y="325" 
+  	width="35" height="50" 
+    	style="fill:white;stroke-width:2;stroke:black" /> 
+
+<rect
+	x="445" y="325" 
+  	width="35" height="50" 
+    	style="fill:white;stroke-width:2;stroke:black" />
+        
+<rect
+	x="320" y="225" 
+  	width="35" height="50" 
+    	style="fill:white;stroke-width:2;stroke:black" /> 
+
+<rect
+	x="445" y="225" 
+  	width="35" height="50" 
+    	style="fill:white;stroke-width:2;stroke:black" />
+
+<rect
+	x="500" y="325" 
+  	width="100" height="75" 
+    	style="fill:white;stroke-width:2;stroke:black" />
+
+<polygon 
+ 	points="300,200 400,150 500,200"
+    	style="fill:red;stroke:black;stroke-width:2;" />
+
+<polygon 
+ 	points="500,300 500,325 600,325"
+    	style="fill:red;stroke:black;stroke-width:2;" />
+  
+  
+  
+  
+  
+  
+  
+</svg>
+ 
+</body>
+</html>
+
